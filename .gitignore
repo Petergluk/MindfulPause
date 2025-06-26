@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+.venv/
+env/
+.env/
+
+# Nuitka build artifacts
+MindfulPause.build/
+MindfulPause.dist/
+MindfulPause.onefile-build/
+nuitka_dist/
+*.py.c
+*.py.o
+*.py.so
+*.py.dylib
+*.pyd
+*.exe
+*.bin
+*.app
+*.spec
+nuitka-crash-report.xml
+
+# IDE-specific
+.idea/
+.vscode/

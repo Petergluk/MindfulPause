@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+    <big_break_enabled>true</big_break_enabled>
+    <big_break_interval>60</big_break_interval>
+    <big_break_duration>5</big_break_duration>
+    <short_pause_enabled>true</short_pause_enabled>
+    <short_pause_interval>20</short_pause_interval>
+    <short_pause_duration>10</short_pause_duration>
+    <warning_enabled>true</warning_enabled>
+    <warning_time>30</warning_time>
+    <strict_mode>false</strict_mode>
+    <sound_enabled>true</sound_enabled>
+    <sound_start_enabled>true</sound_start_enabled>
+    <darken_short_pause>true</darken_short_pause>
+    <autostart>false</autostart>
+    <track_activity>true</track_activity>
+</settings>
